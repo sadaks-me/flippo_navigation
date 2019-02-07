@@ -1,18 +1,24 @@
-# flippo_navigation
+# Flippo Navigation
 
-A Flutter package to make an animated navigation bar.
+[![pub package](https://img.shields.io/badge/pub-0.0.5-green.svg)](https://pub.dartlang.org/packages/flippo_navigation)
 
-## Screenshots
+Flippo Navigation- A Flutter Package for an animated navigation drawer.
 
-https://github.com/sad1996/flippo/blob/master/Screenshot/Screenrecord.mp4
-https://github.com/sad1996/flippo/blob/master/Screenshot/Screen1.png
-https://github.com/sad1996/flippo/blob/master/Screenshot/Screen2.png
+<p>
+	<img src="https://github.com/sad1996/flippo/blob/master/Screenshot/Screen1.png?raw=true" width="250" height="443"  />
+	<img src="https://github.com/sad1996/flippo/blob/master/Screenshot/Screen2.png?raw=true" width="250" height="443" />
+</p>
 
-### Snippet
+## How to use
 
-@override
-  Widget build(BuildContext context) {
-   return new Flippo(
+````dart
+import 'package:flippo_navigation/flippo_navigation.dart';
+````
+
+Create an animated navigation drawer with the following snippet:
+
+````dart
+new Flippo(
       controller: controller,
       mask: new Scaffold(
         backgroundColor: Colors.white,
@@ -24,4 +30,4 @@ https://github.com/sad1996/flippo/blob/master/Screenshot/Screen2.png
         backgroundColor: Colors.black,
       ),
     );
-  }
+````
