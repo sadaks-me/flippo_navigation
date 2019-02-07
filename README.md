@@ -19,7 +19,6 @@ Create an animated navigation drawer with the following snippet:
 
 ````dart
 new Flippo(
-      controller: controller,
       mask: new Scaffold(
         backgroundColor: Colors.white,
       ),
