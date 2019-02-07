@@ -1,6 +1,6 @@
 # Flippo Navigation
 
-[![pub package](https://img.shields.io/badge/pub-0.0.5-green.svg)](https://pub.dartlang.org/packages/flippo_navigation)
+[![pub package](https://img.shields.io/badge/pub-0.0.6-green.svg)](https://pub.dartlang.org/packages/flippo_navigation)
 
 Flippo Navigation- A Flutter Package for an animated navigation drawer.
 

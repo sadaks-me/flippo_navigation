@@ -1,8 +1,8 @@
 name: flippo_navigation
 description: A Flutter Animated Navigation Drawer Package.
-version: 0.0.5
+version: 0.0.6
 author: Mohamed Sadakathulla <sadak@nowappstech.com>
-homepage: https://sad1996.github.io/flippo
+homepage: https://github.com/sad1996/flippo_navigation
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
